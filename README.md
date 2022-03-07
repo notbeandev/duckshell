@@ -1,0 +1,2 @@
+# duckshell
+Duckshell for linux!
